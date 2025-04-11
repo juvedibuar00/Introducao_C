@@ -1,0 +1,7 @@
+Opção 1: Trocar a codificação do terminal
+Abra o PowerShell
+
+Digite o seguinte comando antes de executar seu .exe:
+
+//Comando para mudar a codificação do terminal
+chcp 65001
