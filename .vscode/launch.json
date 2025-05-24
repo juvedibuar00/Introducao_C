@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/JUVE/Desktop/Introducao_C/02-05-2025/operacoes",
-      "program": "c:/Users/JUVE/Desktop/Introducao_C/02-05-2025/operacoes/build/Debug/outDebug",
+      "cwd": "c:/Users/61490327363/Desktop/Introducao_C/23-05-2025-aula_07_08",
+      "program": "c:/Users/61490327363/Desktop/Introducao_C/23-05-2025-aula_07_08/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
